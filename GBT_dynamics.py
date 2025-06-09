@@ -1,7 +1,6 @@
 import numpy as np
 import random
 import matplotlib.pyplot as plt
-import myconfig
 
 def tau_tree_analytic(depth):
     return 8*(2**(depth)-1)*(1-1/(2**depth)) # analytic formula for the hitting time of a binary tree
