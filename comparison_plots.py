@@ -1,5 +1,6 @@
 '''
-Analytic calculation of Hitting time tau
+Comparison plots of Hitting time tau
+with analytic equations
 '''
 import numpy as np
 import matplotlib.pyplot as plt
